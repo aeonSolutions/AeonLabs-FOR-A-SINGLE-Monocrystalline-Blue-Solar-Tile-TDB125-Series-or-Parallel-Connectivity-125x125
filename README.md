@@ -12,7 +12,7 @@
 
 # Single Monocrystalline Blue Solar Tile TDB125 Series or Parallel Connectivity 125x125mm
 
-This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V)  with dimensions 124x124mm. This PCB features a single 18650 Battery management system intended for indoor usage. In particular to be installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
+This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DCnJW0V)  with dimensions 124x124mm. This PCB is intended to give support and stregth to the fragile solar tile while allowing in series or parallel connectivty with orther solar tiles. Is designed within mind installation on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For insatnce [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
 When connected in series and installed on several windows and networked, can power off the grid a 4.2V LED illumination on all rooms and compartments at a home or office. During evenings and at night until bedtime. If one intends to use it to power indoors LED illumination during the day is required a High Capacity Power Bank connected to all first tiles of all the series. For instance this [power bank](https://s.click.aliexpress.com/e/_Ddl7nsh) here. 
 
@@ -27,9 +27,7 @@ One important take way about this prototype project is in the ability to be inst
 
 A breif view of specifications:
 
-- 1x 18650 LiPo battery management system
 - the PCB can be connected in series to form a lenght of solar cell tiles packed together (each with its own single BMS. 
-- Main ON/OFF switch.
 - PCB asssembly in series made with a 10 pin pin header/ socket. For "plug and play" type of instalations
 - Screw terminal to connect main low power 5V DC line at home/office. 
 
@@ -44,7 +42,7 @@ waiting to be tested. Stay tuned for updates.
 ## PCB
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/pcb_front.png" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-FOR-A-SINGLE-Monocrystalline-Blue-Solar-Tile-TDB125-Series-or-Parallel-Connectivity-125x125/blob/main/Designs/pcb_front.png" height="350">
 </p>
 
 <br>
